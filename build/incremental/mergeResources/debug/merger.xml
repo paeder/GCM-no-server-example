@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="success" >Message Successful
+                </string>
+                <string name="mainTitle" >aederMedia GCM Example
+                </string>
+                <string name="resetActivity" >send another message
+                </string>
+                <string name="app_name" >GCM_no_server_example
+                </string>
+                <string name="sendNotificaton" >Send Simple Notification
+                </string>
+            </file>
+            <file
+                path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.NoActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/debug/res" />
+    </dataSet>
+
+</merger>

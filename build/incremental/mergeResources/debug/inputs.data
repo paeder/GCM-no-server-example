@@ -1,0 +1,10 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1387596089000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/drawable-hdpi/ic_launcher.png
+1387596089000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/drawable-xxhdpi/ic_launcher.png
+1387597001000 383 14f342d195f7add6626122298ad94a1e2c7a35cd /Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/values/strings.xml
+1387596089000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/drawable-mdpi/ic_launcher.png
+1387507898000 2443 b738e953eeae281b4e35f50ab2082d375a7666cf /Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/layout/activity_main.xml
+1387597286000 189 7317742613a23e3c196788860e6a6f4bb8dc941a /Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/values/styles.xml
+1387596089000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/drawable-xhdpi/ic_launcher.png

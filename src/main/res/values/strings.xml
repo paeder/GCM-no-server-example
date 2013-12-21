@@ -1,0 +1,12 @@
+<resources>
+
+    <!--APPLICATION-->
+    <string name="app_name">GCM_no_server_example</string>
+
+    <!--MAIN ACTIVITY-->
+    <string name="mainTitle">aederMedia GCM Example</string>
+    <string name="sendNotificaton">Send Simple Notification</string>
+    <string name="resetActivity">send another message</string>
+    <string name="success">Message Successful</string>
+
+</resources>

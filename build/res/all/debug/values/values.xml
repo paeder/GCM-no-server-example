@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">GCM_no_server_example</string>
+    <string name="mainTitle">aederMedia GCM Example</string>
+    <string name="resetActivity">send another message</string>
+    <string name="sendNotificaton">Send Simple Notification</string>
+    <string name="success">Message Successful</string>
+    <!-- From: file:/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

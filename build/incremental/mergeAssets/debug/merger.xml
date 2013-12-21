@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/debug/assets" />
+    </dataSet>
+
+</merger>

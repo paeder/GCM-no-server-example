@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp">
+
+    <TextView
+            android:id="@+id/title"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="24sp"
+            android:text="@string/mainTitle"/>
+
+    <RelativeLayout
+            android:id="@+id/sendMessageLayout"
+            android:layout_below="@id/title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <Button
+                android:id="@+id/simpleNotification"
+                android:layout_centerInParent="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:textColor="@android:color/white"
+                android:text="@string/sendNotificaton"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+            android:id="@+id/showResponseLayout"
+            android:layout_below="@id/title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <Button
+                android:id="@+id/activityReset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textColor="@android:color/white"
+                android:text="@string/resetActivity"/>
+
+        <TextView
+                android:id="@+id/desc"
+                android:layout_above="@id/activityReset"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:text="@string/success"/>
+    </RelativeLayout>
+</RelativeLayout><!-- From: file:/Users/patrickaeder/androidDevel/aederMedia/GCM_no_server_example/GCM_no_server_example/src/main/res/layout/activity_main.xml -->
